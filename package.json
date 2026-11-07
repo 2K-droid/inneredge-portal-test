@@ -1,0 +1,9 @@
+{
+  "name": "inneredge-portal-test",
+  "private": true,
+  "type": "module",
+  "description": "Inner Edge client portal test: a private agent connection on Netlify. Test data only.",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
